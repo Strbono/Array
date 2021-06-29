@@ -1,0 +1,7 @@
+D:\kuliah\Semester 2\PEMROGRAMAN\LATIHAN\Array\ARRAY\TugArr\bin\Debug\TugArr.exe.config
+D:\kuliah\Semester 2\PEMROGRAMAN\LATIHAN\Array\ARRAY\TugArr\bin\Debug\TugArr.exe
+D:\kuliah\Semester 2\PEMROGRAMAN\LATIHAN\Array\ARRAY\TugArr\bin\Debug\TugArr.pdb
+D:\kuliah\Semester 2\PEMROGRAMAN\LATIHAN\Array\ARRAY\TugArr\obj\Debug\TugArr.csprojAssemblyReference.cache
+D:\kuliah\Semester 2\PEMROGRAMAN\LATIHAN\Array\ARRAY\TugArr\obj\Debug\TugArr.csproj.CoreCompileInputs.cache
+D:\kuliah\Semester 2\PEMROGRAMAN\LATIHAN\Array\ARRAY\TugArr\obj\Debug\TugArr.exe
+D:\kuliah\Semester 2\PEMROGRAMAN\LATIHAN\Array\ARRAY\TugArr\obj\Debug\TugArr.pdb

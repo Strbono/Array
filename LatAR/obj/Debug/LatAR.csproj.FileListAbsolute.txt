@@ -1,0 +1,7 @@
+D:\kuliah\Semester 2\PEMROGRAMAN\LATIHAN\Array\ARRAY\LatAR\bin\Debug\LatAR.exe.config
+D:\kuliah\Semester 2\PEMROGRAMAN\LATIHAN\Array\ARRAY\LatAR\bin\Debug\LatAR.exe
+D:\kuliah\Semester 2\PEMROGRAMAN\LATIHAN\Array\ARRAY\LatAR\bin\Debug\LatAR.pdb
+D:\kuliah\Semester 2\PEMROGRAMAN\LATIHAN\Array\ARRAY\LatAR\obj\Debug\LatAR.csprojAssemblyReference.cache
+D:\kuliah\Semester 2\PEMROGRAMAN\LATIHAN\Array\ARRAY\LatAR\obj\Debug\LatAR.csproj.CoreCompileInputs.cache
+D:\kuliah\Semester 2\PEMROGRAMAN\LATIHAN\Array\ARRAY\LatAR\obj\Debug\LatAR.exe
+D:\kuliah\Semester 2\PEMROGRAMAN\LATIHAN\Array\ARRAY\LatAR\obj\Debug\LatAR.pdb
